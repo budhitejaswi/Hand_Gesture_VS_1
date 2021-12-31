@@ -1,0 +1,47 @@
+body
+{
+  color: rgb(246, 255, 235);
+  background: #3b4761;
+  
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(172, 167, 167);
+  width: 350px;
+  height: 300; 
+}
+#result_emotion_name 
+{
+  color: rgb(240, 221, 221);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+  font-size: 25px;
+  letter-spacing: 7px;
+  border-radius: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: solid;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 5px;
+  background-color: rgb(86, 109, 151);
+  border-color: white;
+  color: lightblue;
+}
+
+#style{
+    font-family: monospace;
+    color: rgb(243, 217, 248);
+}
